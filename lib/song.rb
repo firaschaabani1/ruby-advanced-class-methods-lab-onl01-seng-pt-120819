@@ -11,3 +11,6 @@ class Song
   end
 
 end
+def new_by_name (song)
+  @song_by_name = "Blank Space"
+end

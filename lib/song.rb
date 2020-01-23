@@ -20,4 +20,3 @@ end
 def find_or_create_by_name (alison)
   find @name : name
 end
-

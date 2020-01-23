@@ -17,3 +17,6 @@ end
 def create_by_name (song)
  @name = song.new
 end
+def find_or_create_by_name (alison)
+  find @name : name
+end
